@@ -1,0 +1,28 @@
+#left-banner {
+  // 50% - bannerWidth - half of contentWidth
+  left: calc(50% - 420px - 570px);
+  img {
+      content: url($banner-left);
+  }
+}
+
+#right-banner {
+  // 50% - bannerWidth - half of contentWidth
+  right: calc(50% - 420px - 570px);
+
+  img {
+    content: url($banner-right);
+  }
+}
+
+.banner {
+  top: 108px;
+  position: absolute;
+  width: 420px;
+  min-width: 200px;
+  z-index: 2;
+
+  img {
+    width: 100%;
+  }
+}

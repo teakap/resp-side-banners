@@ -2,7 +2,7 @@
   // 50% - bannerWidth - half of contentWidth
   left: calc(50% - 420px - 570px);
   img {
-      content: url($banner-left);
+    content: url($banner-left);
   }
 }
 

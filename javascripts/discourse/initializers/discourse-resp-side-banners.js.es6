@@ -12,18 +12,10 @@ export default {
     //     return;
     //   }
 
-      const headerLinks = [];
 
-      const rightBannerMappedAttrs = [right_banner_url]
-            .split(",")
-            .filter(Boolean)
-            .map((x) => x.trim());
+      const rightBannerMappedAttrs = right_banner_url;
 
-
-      const leftBannerMappedAttrs = [left_banner_url]
-            .split(",")
-            .filter(Boolean)
-            .map((x) => x.trim());
+      const leftBannerMappedAttrs = left_banner_url;
         console.log(rightBannerMappedAttrs)
         console.log('---------------------------')
         console.log(leftBannerMappedAttrs)

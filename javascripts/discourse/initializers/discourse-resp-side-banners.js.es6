@@ -14,8 +14,8 @@ export default {
 
       const leftBanner = document.getElementById('left-banner')
       const rightBanner = document.getElementById('right-banner')
-      leftBanner.appendChild(left_banner)
-      rightBanner.appendChild(right_banner)
+      leftBanner.appendChild(left_banner_settings);
+      rightBanner.appendChild(right_banner_settings);
     });
   },
 };

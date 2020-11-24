@@ -12,10 +12,6 @@ export default {
     //     return;
     //   }
 
-
-      const rightBannerMappedAttrs = right_banner_url;
-
-      const leftBannerMappedAttrs = left_banner_url;
       const leftBanner = document.getElementById('left-banner')
       const rightBanner = document.getElementById('right-banner')
       leftBanner.appendChild(left_banner)

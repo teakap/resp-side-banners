@@ -1,12 +1,12 @@
 right_banner:
   type: string
-  default: "add a tag"
+  default: "<a href=\"https:https://novo.globaldata.pt/\" target=\"_parent\" class=\"wallpaper-link\" data-position=\"Ck-Wallpaper-Top-Right\" data-id=\"no id\" data-description=\"XMAS Selection\"><img src=\"https://www.overclockers.co.uk/media/image/Christmas-Selection-Siteskin-Right.jpg\" alt=\"XMAS Selection\" title=\"XMAS Selection\"/></a>"
   description:
     en: "Comma delimited in this order: link text, link title, URL, view, target, hide on scroll<br><b>Link text:</b> The text for the link<br><b>Link title:</b> the text that shows when the link is hovered<br><b>URL:</b> The path for the link (can be relative)<br><b>View:</b> vdm = desktop and mobile, vdo = desktop only, vmo = mobile only<br><b>Target:</b> blank = opens in a new tab, self = opens in the same tab<br><b>Hide on scroll:</b> remove = hides the link when the title is expanded on topic pages keep = keeps the link visible even when the title is visible on topic pages"
 
 left_banner: 
   type: string
-  default: "add a tag"
+  default: "<a href=\"https:https://novo.globaldata.pt/\" target=\"_parent\" class=\"wallpaper-link\" data-position=\"Ck-Wallpaper-Top-Right\" data-id=\"no id\" data-description=\"XMAS Selection\"><img src=\"https://www.overclockers.co.uk/media/image/Christmas-Selection-Siteskin-Left.jpg\" alt=\"XMAS Selection\" title=\"XMAS Selection\"/></a>"
   description:
     en: "Comma delimited in this order: link text, link title, URL, view, target, hide on scroll<br><b>Link text:</b> The text for the link<br><b>Link title:</b> the text that shows when the link is hovered<br><b>URL:</b> The path for the link (can be relative)<br><b>View:</b> vdm = desktop and mobile, vdo = desktop only, vmo = mobile only<br><b>Target:</b> blank = opens in a new tab, self = opens in the same tab<br><b>Hide on scroll:</b> remove = hides the link when the title is expanded on topic pages keep = keeps the link visible even when the title is visible on topic pages"
 
